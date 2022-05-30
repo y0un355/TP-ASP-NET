@@ -16,6 +16,7 @@ using TPASPnet5.data;
 
 namespace TPASPnet5
 {
+
     public class Startup
     {
         public Startup(IConfiguration configuration)

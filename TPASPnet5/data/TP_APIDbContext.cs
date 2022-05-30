@@ -8,7 +8,6 @@ namespace TPASPnet5.data
         {
 
 
-
         }
 
         public DbSet<Commande> infoCommande { get; set; }

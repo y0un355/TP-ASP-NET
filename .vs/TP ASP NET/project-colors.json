@@ -1,11 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "6833f1f8-cf25-44c4-a57a-2d99acb780f6": {
-      "ProjectGuid": "6833f1f8-cf25-44c4-a57a-2d99acb780f6",
-      "DisplayName": "TP ASP NET",
-      "ColorIndex": 0
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }
